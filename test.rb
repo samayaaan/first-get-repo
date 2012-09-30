@@ -17,3 +17,5 @@ if nil then
 end
 
 print("test desu");
+
+print("test desu 2");
